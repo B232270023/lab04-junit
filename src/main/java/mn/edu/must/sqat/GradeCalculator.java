@@ -62,4 +62,4 @@ public class GradeCalculator {
 
         return att + lab + quiz1 + quiz2 + exam;
     }
-}\
+}
