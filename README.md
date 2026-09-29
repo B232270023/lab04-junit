@@ -27,16 +27,22 @@
 - Version Control: Git
 - Repository: GitHub
 
-### Java хувилбар шалгах команд
+### Java хувилбар
 
 ```bash
-java -version
+openjdk version "21.0.8" 2025-07-15
+OpenJDK Runtime Environment (build 21.0.8+9-Ubuntu-0ubuntu124.04.1)
+OpenJDK 64-Bit Server VM (build 21.0.8+9-Ubuntu-0ubuntu124.04.1, mixed mode, sharing)
 ```
 
-### Maven хувилбар шалгах команд
+### Maven хувилбар
 
 ```bash
-mvn -version
+Apache Maven 3.8.7
+Maven home: /usr/share/maven
+Java version: 21.0.8, vendor: Ubuntu, runtime: /usr/lib/jvm/java-21-openjdk-amd64
+Default locale: en, platform encoding: UTF-8
+OS name: "linux", version: "5.15.167.4-microsoft-standard-wsl2", arch: "amd64", family: "unix"
 ```
 
 ---
