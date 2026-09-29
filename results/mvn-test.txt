@@ -9,14 +9,16 @@
 [[1;34mINFO[m] skip non existing resourceDirectory /home/shynee/lab04-junit/src/main/resources
 [[1;34mINFO[m] 
 [[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.11.0:compile[m [1m(default-compile)[m @ [36mlab04-junit[0;1m ---[m
-[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] Changes detected - recompiling the module! :source
+[[1;34mINFO[m] Compiling 1 source file with javac [debug release 17] to target/classes
 [[1;34mINFO[m] 
 [[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:testResources[m [1m(default-testResources)[m @ [36mlab04-junit[0;1m ---[m
 [[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
 [[1;34mINFO[m] skip non existing resourceDirectory /home/shynee/lab04-junit/src/test/resources
 [[1;34mINFO[m] 
 [[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.11.0:testCompile[m [1m(default-testCompile)[m @ [36mlab04-junit[0;1m ---[m
-[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] Changes detected - recompiling the module! :dependency
+[[1;34mINFO[m] Compiling 1 source file with javac [debug release 17] to target/test-classes
 [[1;34mINFO[m] 
 [[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:3.2.5:test[m [1m(default-test)[m @ [36mlab04-junit[0;1m ---[m
 [[1;34mINFO[m] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
@@ -25,7 +27,7 @@
 [[1;34mINFO[m]  T E S T S
 [[1;34mINFO[m] -------------------------------------------------------
 [[1;34mINFO[m] Running mn.edu.must.sqat.[1mGradeCalculatorTest[m
-[[1;34mINFO[m] [1;32mTests run: [0;1;32m21[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.149 s -- in mn.edu.must.sqat.[1mGradeCalculatorTest[m
+[[1;34mINFO[m] [1;32mTests run: [0;1;32m21[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.225 s -- in mn.edu.must.sqat.[1mGradeCalculatorTest[m
 [[1;34mINFO[m] 
 [[1;34mINFO[m] Results:
 [[1;34mINFO[m] 
@@ -34,6 +36,6 @@
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
 [[1;34mINFO[m] [1;32mBUILD SUCCESS[m
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
-[[1;34mINFO[m] Total time:  1.422 s
-[[1;34mINFO[m] Finished at: 2026-09-29T15:31:44+08:00
+[[1;34mINFO[m] Total time:  2.568 s
+[[1;34mINFO[m] Finished at: 2026-09-29T15:38:13+08:00
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
